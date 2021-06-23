@@ -1,0 +1,9 @@
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
