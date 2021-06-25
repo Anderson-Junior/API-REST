@@ -5438,7 +5438,8 @@
   },
   "packageFolders": {
     "C:\\Users\\a.lemos\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5450,7 +5451,8 @@
       "outputPath": "C:\\Users\\a.lemos\\Desktop\\Estudos .NET\\Curso NETCore\\Curso_API_NETCore\\src\\Api.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\a.lemos\\AppData\\Roaming\\NuGet\\NuGet.Config",

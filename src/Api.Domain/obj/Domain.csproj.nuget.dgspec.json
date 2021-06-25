@@ -14,7 +14,8 @@
         "outputPath": "C:\\Users\\a.lemos\\Desktop\\Estudos .NET\\Curso NETCore\\Curso_API_NETCore\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\a.lemos\\AppData\\Roaming\\NuGet\\NuGet.Config",
