@@ -7,3 +7,10 @@ C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Se
 C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
 C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\a.lemos\Desktop\Estudos .NET\Curso NETCore\Curso_API_NETCore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
