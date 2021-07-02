@@ -32,7 +32,18 @@ namespace application
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "application", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Title = "API with AspNetCore 5.0",
+                    Version = "v1",
+                    Description = "Architecture DDD",
+                    Contact = new OpenApiContact
+                    {
+                        Name = "Anderson Lemos",
+                        Email = "ander.lemos.jr@gmail.com",
+                        Url = new Uri("https://www.linkedin.com/in/anderson-da-silva-lemos-junior-261b14192/")
+                    },
+                });
             });
         }
 
@@ -43,7 +54,11 @@ namespace application
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "application v1"));
+                app.UseSwaggerUI(c =>
+                {
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "WEB API with AspNetCore 5.0");
+                    c.RoutePrefix = string.Empty;
+                });
             }
 
             app.UseRouting();

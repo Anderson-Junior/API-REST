@@ -102,7 +102,7 @@ namespace Api.Application.Controllers
             }
         }
 
-        [HttpDelete ("{id}")]
+        [HttpDelete("{id}")]
         public async Task<ActionResult> Delete(Guid id)
         {
             if (!ModelState.IsValid)
