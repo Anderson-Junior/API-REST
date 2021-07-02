@@ -91,7 +91,7 @@ namespace Api.Data.Repository
         {
             try
             {
-                var result = await _dataSet.SingleOrDefaultAsync(p => p.Equals(item.Id));
+                var result = await _dataSet.SingleOrDefaultAsync(p => p.Id.Equals(item.Id));
                 if (result == null)
                 {
                     return null;
