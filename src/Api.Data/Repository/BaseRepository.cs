@@ -8,11 +8,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Api.Data.Repository
 {
-    public class BaseRopository<T> : IRepository<T> where T : BaseEntity
+    public class BaseRepository<T> : IRepository<T> where T : BaseEntity
     {
         protected readonly MyContext _context;
         private DbSet<T> _dataSet;
-        public BaseRopository(MyContext context)
+        public BaseRepository(MyContext context)
         {
             _context = context;
             _dataSet = _context.Set<T>();
