@@ -3,7 +3,7 @@
 	🚧 API 🚀 Under construction...  🚧
 </h4>
 <h4 align="center">
-	<a href="https://dotnet.microsoft.com/download/dotnet/3.1">.Net Core 3.1</a>
+	<a href="https://dotnet.microsoft.com/download/dotnet/5.0">.Net Core 5.0</a>
 </h4>
 <h4 align="center">
 	<a href="https://www.microsoft.com/pt-br/p/csharp/9n4w6bhc0hml#activetab=pivot:overviewtab">C#</a>
