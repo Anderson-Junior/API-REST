@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "RfqniPuQ+86yPDLmCDMijCJKL4bdzI94yYYO8g8bOa13QwDiuDgaFwwqeXcSjL4gyXkhDWJhW9q6H+x8HCE7zw==",
+  "dgSpecHash": "hxTuoLsj/11uaCkwy8WtadDslfI9V5uPyrchpPDzp8HsG0t84xGl8NZ+VFHvHR3PJbjHsm1KkQroXTxLx5lThw==",
   "success": true,
   "projectFilePath": "C:\\Users\\a.lemos\\Desktop\\Estudos .NET\\Curso NETCore\\Curso_API_NETCore\\src\\Api.Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\a.lemos\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\a.lemos\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.11.1\\microsoft.identitymodel.jsonwebtokens.6.11.1.nupkg.sha512",
+    "C:\\Users\\a.lemos\\.nuget\\packages\\microsoft.identitymodel.logging\\6.11.1\\microsoft.identitymodel.logging.6.11.1.nupkg.sha512",
+    "C:\\Users\\a.lemos\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.11.1\\microsoft.identitymodel.tokens.6.11.1.nupkg.sha512",
+    "C:\\Users\\a.lemos\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.11.1\\system.identitymodel.tokens.jwt.6.11.1.nupkg.sha512",
+    "C:\\Users\\a.lemos\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
